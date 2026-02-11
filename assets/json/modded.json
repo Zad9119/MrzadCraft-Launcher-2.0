@@ -14,10 +14,10 @@
        "active": true
     },
     {
-       "title": "Resent Client",
-       "version": "1.8.8-v4.0.p4",
-       "icon": "./assets/images/icons/resent-client.png",
-       "link": "./mc/resentclient/",
+       "title": "Forge 1.6.4",
+       "version": "1.6.4-v1.0",
+       "icon": "./assets/images/icons/forge.png",
+       "link": "./mc/1.6.4-forge/",
        "active": true
     },
     {

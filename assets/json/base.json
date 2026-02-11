@@ -1,9 +1,9 @@
 [
     {
        "title": "Latest release",
-       "version": "1.12.2-u2",
-       "icon": "./assets/images/mc-icons/grass.png",
-       "link": "./mc/1.12.2/",
+       "version": "1.20.1-u1",
+       "icon": "./assets/images/mc-icons/cherry-leaves.png",
+       "link": "./mc/1.10.1/",
        "active": true
     },
     {
@@ -124,5 +124,19 @@
        "icon": "./assets/images/mc-icons/tnt-wasm.png",
        "link": "./mc/c0.30-wasm/",
        "active": false
+    },
+{
+       "title": "MrzadCraft 1.21.5",
+       "version": "v1.0 (Only working if server is on so you can use 1.21.5 items)",
+       "icon": "./assets/images/mc-icons/copper-bulb.png",
+       "link": "./mc/1.21.5/",
+       "active": true
+    },
+ {
+       "title": "Five Nights at Winstons",
+       "version": "N/A",
+       "icon": "./assets/images/mc-icons/fnaw.png",
+       "link": "./mc/fnaw/",
+       "active": false
     }
- ]
+]
