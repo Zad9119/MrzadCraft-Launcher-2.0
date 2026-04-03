@@ -8,7 +8,7 @@
     },
     {
        "title": "Latest release WASM",
-       "version": "1.12.2-u2-wasm",
+       "version": "1.12.2-u3-wasm",
        "icon": "./assets/images/mc-icons/grass-wasm.png",
        "link": "./mc/1.12.2-wasm/",
        "active": true
