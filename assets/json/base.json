@@ -7,6 +7,13 @@
        "active": true
     },
     {
+       "title": "Eaglercraft 1.21.11 (BETA)",
+       "version": "1.21.11-u1-beta",
+       "icon": "./assets/images/mc-icons/netherite-spear.png",
+       "link": "./mc/1.21.11/",
+       "active": false
+    },
+    {
        "title": "Latest release WASM",
        "version": "1.12.2-u3-wasm",
        "icon": "./assets/images/mc-icons/grass-wasm.png",
