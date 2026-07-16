@@ -1,4 +1,23 @@
 [
+      {
+        "title": "Eaglercraft 1.21.11 Beta",
+        "version": "1.21.11 BETA",
+        "description": "Minecraft 1.21.11 has arrived! (You're welcome).",
+        "date": "Thursday, July 16th, 2026",
+        "icon": "icons/eaglercraft.png",
+        "type": "game",
+        "notes": [Just a quick note that this is NOT MY PORT OF 1.21.11 TO EAGLERCRAFT! This port belongs to Syntax and their team on Discord.
+        Check the Eaglercraft sub to get more details on the port.]
+    },
+    {
+        "title": "Eaglercraft 1.12",
+        "version": "u3",
+        "description": "Added u3 to the game",
+        "date": "Friday, April 3rd, 2026",
+        "icon": "icons/eaglercraft.png",
+        "type": "game",
+        "notes": []
+    },
     {
         "title": "Site Update: Modded",
         "version": "v1.4.00",
